@@ -8,7 +8,7 @@ Os arquivos estão organizados para GitHub Pages, com `index.html` e `assets/` n
 
 ## Formulário de contato
 
-O envio por e-mail aguarda a chave pública do formulário Web3Forms vinculada ao e-mail do colégio. O botão de WhatsApp continua disponível para contato imediato.
+O envio por e-mail está configurado com a chave pública do formulário Web3Forms. O recebimento deve ser conferido na caixa de entrada do e-mail vinculado à chave. O botão de WhatsApp continua disponível para contato imediato.
 
 ## Atualizações
 
